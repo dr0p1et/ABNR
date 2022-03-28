@@ -1,5 +1,7 @@
 # ·天书夜读·专栏
 
+Abstruse Book Night Read.
+
 这个专栏主要用于记录自己平时的读书笔记和思维碎片。
 
 Study notes can persist for three years, you will be able to become a teacher.
