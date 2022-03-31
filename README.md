@@ -8,8 +8,6 @@ Abstruse Book Night Read.
 
 Study notes can persist for three years, you will be able to become a teacher.
 
-----
-
 专栏列表：
 
 - 天书夜读
