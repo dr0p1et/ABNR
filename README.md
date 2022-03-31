@@ -2,45 +2,39 @@
 
 Abstruse Book Night Read.
 
-这个专栏主要用于记录自己平时的读书笔记和思维碎片。
+----
+
+这个专栏主要用于记录平时的读书笔记、研究总结和思维碎片。
 
 Study notes can persist for three years, you will be able to become a teacher.
 
-## 思维碎片
+----
 
-[Pieces of Mind.](./pieces_of_mind.md)
+专栏列表：
 
-## 我的书单
+- 天书夜读
+  - [阅读计划](./books/)
+  - [议题解读](./topics/)
+- 寒江独钓
+  - [专题总结](./study/)
+  - [刻意练习](./practice/)
+- 竹林蹊径
+  - [思维碎片](./pieces/)
 
-[Book List.](./books_list.md)
+----
 
 ## 阅读计划
 
-- 第1期：Linux内核学习路线（上）
-  - 操作系统设计与实现 Minix3
-  - Linux内核设计与实现
-  - 深入理解Linux内核
-  - Linux内核源代码完全剖析
-  - 深入Linux内核架构
-- 第2期：Linux内核学习路线（下）
-  - 深入理解Linux虚拟内存管理
-  - 深入理解Linux网络技术内幕
-  - 存储技术原理分析
-  - Linux设备驱动程序（第三版）
-  - 鸿蒙内核剖析百篇
-  - 深入浅出系统虚拟化原理与实现
+[Book List.](./books/books_list.md)
+
+- 第1-2期：Linux内核学习路线
 - 第3期：Intel/AMD开发手册导读
-  - Intel® 64 and IA-32 Architectures Software Developer's Manual
-  - AMD64 Architecture Programmer's Manual
+- 第4期：算法导论
 - 第x期：零散阅读计划
-  - 只是为了好玩 Linus自传
-  - 暂无
 
 ### 第1-2期：Linux内核学习路线
 
 共分两期，2022年至2023年两年的学习计划，目标是达到Linux内核高级工程师的工作要求。
-
-![](./notes/linux_kernel_study_path.png)
 
 #### 第1期
 
@@ -76,9 +70,41 @@ Study notes can persist for three years, you will be able to become a teacher.
 
 以导读翻译的形式出一本导读手册，以雅的翻译手法从整体上把握开发手册的核心要义。
 
+### 第4期：算法导论
+
+2022年底完成完成《算法导论》以及《麻省理工公开课：算法导论》的学习，长期计划是坚持做LeetCode网站上的算法题，争取一周完成3-5道算法题。
+
+任务：
+
+- LeetCode刷题。
+
+刻意练习。
+
 ### 第x期：零散阅读计划
 
 暂无。
+
+## 议题解读
+
+- Hyntrospect: a fuzzer for Hyper-V devices
+
+## 专题总结
+
+暂无。
+
+## 刻意练习
+
+每天坚持读书。
+
+## 思维碎片
+
+[Pieces of Mind.](./pieces/pieces_of_mind.md)
+
+## 联系我
+
+如果有任何疑问，请联系我。
+
+邮箱：dr0p1et#163.com
 
 ---
 
