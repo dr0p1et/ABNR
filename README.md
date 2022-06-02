@@ -33,7 +33,8 @@ Study notes can persist for three years, you will be able to become a teacher.
 
 ## 议题解读
 
-- Hyntrospect: a fuzzer for Hyper-V devices
+- Hyntrospect: a fuzzer for Hyper-V devices.
+- Tavor - A Generic Fuzzing and Delta Debugging Framework.
 
 ## 专题总结
 
@@ -56,4 +57,4 @@ Study notes can persist for three years, you will be able to become a teacher.
 
 ---
 
-:copyright: 2021-2022 :rocket: `DR0p1ET`.
+:copyright: 2021-2022 :rocket: `DR0p1ET™`.
