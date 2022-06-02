@@ -44,11 +44,8 @@ Study notes can persist for three years, you will be able to become a teacher.
 [Pieces of Mind.](./pieces/pieces_of_mind.md)
 
 - 目录
-  
   - 如何fuzz无法导致crash的memory leak
-  
   - 如何Fuzz RDP Client
-  
   - 结构感知型Fuzzing策略 - 2022.06.02
 
 ## 联系我
